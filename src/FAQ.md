@@ -9,7 +9,7 @@ Sakubi is an open project.
 It is released under CC0 licensing as [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
 On top of that, the Sakubi project is abandoned and hasn't received updates since 2018.
 
-At AJATT, we decided to adapt Sakubi to the AJATT method of language learning and improve it.
+At AJATT, we decided to adapt Sakubi to the [AJATT method](https://ajatt.top/blog/whats-ajatt.html) of language learning and improve it.
 We wanted to create a guide that aligns well with the AJATT philosophy.
 Most of the lessons, topics, and a lot of the phrasings have been straight up copied, rephrased, and rearranged but the core of the guide is still the same.
 
@@ -48,7 +48,7 @@ AJATT Grammar Guide as a project was started by [AJATT](https://ajatt.top/), and
 
 ### What makes AJATT Grammar Guide better than other grammar guides?
 
-There are a lot of other [amazing grammar guides](https://ajatt.top/blog/learning-grammar.html) (and textbooks) out there if you want to learn Japanese. AJATT Grammar Guide isn't the "best" or "the ultimate" guide or anything like that. It is just one way of approaching things. Just like its predecessor, AJATT Grammar Guide focuses on (usually) short, straight to the point, and very direct explanations. It does **not** hold your hand the whole way. It **expects** the reader to put in some work and active effort. To look things up, and to achieve independence of their own learning. It also **expects** the learner to focus more on immersion and natural content, rather than worry about specific grammar explanations to the tiniest of details.
+There are a lot of other [amazing grammar guides](https://ajatt.top/blog/learning-grammar.html) (and textbooks) out there if you want to learn Japanese. AJATT Grammar Guide isn't the "best" or "the ultimate" guide or anything like that. It is just one way of approaching things. Just like its predecessor, AJATT Grammar Guide focuses on (usually) short, straight to the point, and very direct explanations. It does **not** hold your hand the whole way. It **expects** the reader to put in some work and active effort. To look things up, and to achieve independence of their own learning. It also **expects** the learner to focus more on [immersion and natural content](https://ajatt.top/blog/whats-immersion.html), rather than worry about specific grammar explanations to the tiniest of details.
 
 If you believe this matches your idea of Japanese learning, then start from the [Before you begin](./Before-you-begin.md) page and get learning. If not, there are other guides out there too. **AJATT Grammar Guide is not expected to work for everyone**.
 
