@@ -3,15 +3,23 @@
 
 ## What you need
 
-This guide assumes that you know the hiragana and katakana and that you're studying basic Japanese vocabulary. The most efficient way to learn the kana (hiragana+katakana) is to drill it through brute force. You can use [a kana drill site](https://kuuuube.github.io/kana-quiz/kana/index.html) for this. You can also learn by exposure.
+This guide assumes that you know the hiragana and katakana and that you're studying basic Japanese vocabulary.
+To learn the kana (hiragana+katakana) we recommend either of the two methods:
+
+- [Free software like Kakui](https://f-droid.org/en/packages/org.kaqui/) to drill it through brute force.
+- [A kana Anki deck](https://ajatt.top/blog/learning-kana-in-two-days.html) to learn by spaced repetition.
 
 This guide assumes that you know what writing systems Japanese uses, and that you know what Japanese text looks like, and what Kanji are.
 
 This guide assumes that you're learning vocabulary outside this guide. It can't teach you enough words to be useful without getting in the way of the grammar.
 
-If you need more guidance for things other than grammar, try the [loop](https://morg.systems/58465ab9).
+If you need more guidance for things other than grammar, try the [AJATT guide](https://ajatt.top/).
 
-**Check this:** 置 How does this character render? If it's missing the vertical line on the left side, your browser is using Chinese fonts for Japanese. You may need to install Japanese fonts or change some system language settings.
+**Check this:** 置 How does this character render?
+If it's missing the vertical line on the left side,
+your browser is using Chinese fonts for Japanese.
+You may need to [install Japanese fonts](https://ajatt.top/blog/japanese-fonts.html)
+or change some system language settings.
 
 ![][image1]
 
@@ -29,7 +37,7 @@ After you get far enough in this guide, you should start trying to consume Japan
 
 Trying to read on a regular basis, even if you can't do it for more than five minutes, tells you exactly what your weak points are, and gives you a sense of progress. This guide exposes you to grammar to let you break down things, but you need to consume real Japanese to turn that exposure into acquisition.
 
-The most efficient way to learn vocabulary is to start [picking up words from media you enjoy](https://lazyguidejp.github.io/jp-lazy-guide/), then memorize them with flashcards. This is called mining. Anki is the recommended flashcard program because it uses Spaced Repetition, which shows you stuff less often the better you know it. You can use frequency lists or shared decks prepared by other people at first if you don't want to mine or find the process of immersing in Japanese media still too hard. A good starter deck is the [kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) deck.
+The most efficient way to learn vocabulary is to start [picking up words from media you enjoy](https://ajatt.top/blog/sentence-mining.html), then memorize them with flashcards. This is called mining. Anki is the recommended flashcard program because it uses Spaced Repetition, which shows you stuff less often the better you know it. You can use frequency lists or shared decks prepared by other people at first if you don't want to mine or find the process of immersing in Japanese media still too hard. A good starter deck is the [Ankidrone Foundation](https://ajatt.top/blog/jp1k-anki-deck.html) deck.
 
 If you want to speak Japanese, you must consume audible spoken Japanese, otherwise you'll sound unnatural. It doesn't matter if it's anime or news or living in Japan, you just have to consume it in the spoken unwritten form. This can come after you learn how to read, but you should passively expose yourself to it (with anything: visual novels, music, anime, etc) as early as possible, otherwise it'll take a long time for your brain to pick up on nuanced sound differences, like how Japanese people need to be trained before they can tell apart L and R. If you spend most of your time reading and ignore the spoken language, you can also acquire unnatural pronunciation and pitch accent that might be harder to fix later.
 
@@ -50,12 +58,7 @@ If you still don't know what to do, or you came back here confused:
 
 Do not memorize this guide. It won't work. It might even be bad for you.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/G5IPArDxO40?si=oF-5bVY6SNMsnPTY"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Watch [this video](https://redirect.invidious.io/watch?v=G5IPArDxO40) on Invidious.
 
 ## Still stuck?
 

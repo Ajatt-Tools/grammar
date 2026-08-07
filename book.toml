@@ -1,8 +1,8 @@
 [book]
-authors = ["Morg"]
+authors = ["Ajatt-Tools and contributors"]
 language = "ja"
 src = "src"
-title = "Yokubi"
+title = "AJATT Grammar Guide"
 
 [output.html]
 default-theme = "Navy"
