@@ -28,20 +28,22 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    env:
-      MDBOOK_VERSION: 0.4.36
     steps:
       - uses: actions/checkout@v7
-      - name: Install mdBook
-        run: |
-          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          rustup update
-          cargo install --version ${MDBOOK_VERSION} mdbook
+
+      # https://github.com/peaceiris/actions-mdbook/
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: latest
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
+
       - name: Build with mdBook
         run: mdbook build
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
