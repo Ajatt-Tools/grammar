@@ -4,10 +4,8 @@
 ## What you need
 
 This guide assumes that you know the hiragana and katakana and that you're studying basic Japanese vocabulary.
-To learn the kana (hiragana+katakana) we recommend either of the two methods:
-
-- [Free software like Kakui](https://f-droid.org/en/packages/org.kaqui/) to drill it through brute force.
-- [A kana Anki deck](https://ajatt.top/blog/learning-kana-in-two-days.html) to learn by spaced repetition.
+To learn the kana (hiragana+katakana) we recommend reading this article:
+[Learning kana in two days](https://ajatt.top/blog/learning-kana-in-two-days.html).
 
 This guide assumes that you know what writing systems Japanese uses, and that you know what Japanese text looks like, and what Kanji are.
 
