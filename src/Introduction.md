@@ -1,6 +1,6 @@
 # Introduction
 
-<img src="images/達元.webp" alt="logo" class="tatsumoto_logo">
+<img src="images/logo.webp" alt="logo" class="tatsumoto_logo">
 
 ## Welcome
 
