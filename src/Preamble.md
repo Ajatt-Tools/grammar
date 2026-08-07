@@ -1,11 +1,11 @@
 # Preamble
 
-This guide will cover most of the grammar needed to understand basic japanese. It's not going to go into too much detail, and it won't cover much vocabulary. If you are reading this in a browser, install a dictionary lookup extension like [Yomitan](https://yomitan.wiki/) so you can easily look up the words in the example sentences. Some words are basically grammar, though, so they will come up in specific lessons. 
+This guide will cover most of the grammar needed to understand basic japanese. It's not going to go into too much detail, and it won't cover much vocabulary. If you are reading this in a browser, install a dictionary lookup extension like [Rikaitan](https://rikaitan.ajatt.top) so you can easily look up the words in the example sentences. Some words are basically grammar, though, so they will come up in specific lessons.
 
 There are no exercises:
 
-- Skill building, as in reading a grammar explanation and answering questions about it, doesn't work when it comes to learning a new language.  
-- A lot of people are poisoned by modern education and will basically fry their brains if there's anything to "work" on.  
+- Skill building, as in reading a grammar explanation and answering questions about it, doesn't work when it comes to learning a new language.
+- A lot of people are poisoned by modern education and will basically fry their brains if there's anything to "work" on.
 - Grammar guides are a terrible place to learn vocabulary.
 
 If you want to pass a Japanese proficiency test, like the JLPT, this guide isn't targeted at you. You will likely be fine if you use it, because achieving Japanese proficiency is all that is needed to pass such tests, but it will likely betray your expectations in the short term. The topics in this guide are not sorted by JLPT difficulty and if your goal is to pass early levels in a short amount of time, you might be better off using JLPT-specific resources instead.

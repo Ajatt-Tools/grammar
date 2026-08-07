@@ -9,3 +9,10 @@ pre {
   overflow-wrap: anywhere;
   font-family: "Open Sans", sans-serif;
 }
+
+.tatsumoto_logo {
+  max-height: min(50vh, 320px);
+  display: block;
+  margin: 0 auto;
+  filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(4556%) hue-rotate(188deg) brightness(85%) contrast(89%);
+}

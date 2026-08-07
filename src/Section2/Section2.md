@@ -1,4 +1,4 @@
-# ABSOLUTE TERRITORY
+# Section 2
 
 At this point, you should begin reading, skimming later lessons to see what the guide has to say about the unfamiliar grammar you encounter. The remainder of this guide is half guidance, half reference.
 
@@ -6,11 +6,11 @@ Language learning takes time, even if you put in a lot of effort. You have to ap
 
 And this goes for every little part of reading. New words, grammar patterns, ways that Japanese people communicate, and figures of speech. They all feel weird and alien at first and don't make sense. But eventually, once you are exposed to them enough, you'll kinda start to "get it". That's why you've gotta start reading. You have to start the process of getting your brain familiarized with it in ways that we don't consciously understand yet.
 
-This guide can't teach you Japanese. Nobody can teach you Japanese. The only way to learn Japanese is to understand messages that are written or said in Japanese. But why is the focus on "understanding messages" in particular? 
+This guide can't teach you Japanese. Nobody can teach you Japanese. The only way to learn Japanese is to understand messages that are written or said in Japanese. But why is the focus on "understanding messages" in particular?
 
 Two reasons:
 
-- If something is way out of your depth, you won't learn anything from it. If you don't understand what's being said, you won't learn anything new about the vocabulary and grammar used in it.  
+- If something is way out of your depth, you won't learn anything from it. If you don't understand what's being said, you won't learn anything new about the vocabulary and grammar used in it.
 - It's totally possible to consume something and understand its individual parts but have no idea what it "means". You can break 食べてきました down into its individual parts, and that helps you see the syntax, but unless you understand **what** it's saying, not just **how** it's said, you won't acquire anything from the message. Understanding the content or meaning of the message itself is a precondition to learning from it.
 
 A lot of people start learning a language and focus on picking apart messages one word or phrase at a time, like it's a puzzle. This can make things seem less confusing, but if you insist on doing it all the time, you'll miss the big picture and fail to comprehend a lot of messages.
@@ -21,6 +21,6 @@ Once you figure out "Huh, 食べてきました seems to be used in \<situation 
 
 That association is what lets your brain acquire the language and get a fluent handle on it. Noticing what things mean when they're used is the thing that you need to do if you want to learn japanese. No textbook, not even the best one, and no grammar guide, not even this one, can give you that. It's all up to you.
 
-Don't think. Feel. 
+Don't think. Feel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shgRN32ubag?si=DeSEOrwryaSpnG37" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch [this video](https://redirect.invidious.io/watch?v=shgRN32ubag) on Invidious.
