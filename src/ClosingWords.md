@@ -8,9 +8,9 @@
 </font>
 </center>
 
-The main content may be finished, but there is still a lot to learn. Every single lesson in this guide has been nothing but a tiny drop in the sea of Japanese grammar and constructions that you will encounter as you continue to immerse and experience natural language in context.
+The main content may be finished, but there is still a lot to learn. Every single lesson in this guide has been nothing but a tiny drop in the sea of Japanese grammar and constructions that you will encounter as you continue to [immerse](https://ajatt.top/blog/whats-immersion.html) and experience natural language in context.
 
-These are simply foundations, and to tell you the truth, they aren't even **all** of the foundations. There will still be a lot of basic stuff that you will miss, that you will look up, and that you will learn via exposure. As long as you keep moving forward, you will learn it.
+These are simply foundations, and to tell you the truth, they aren't even **all** of the foundations. There will still be a lot of basic stuff that you will miss, that you will look up, and that you will learn via [exposure](https://ajatt.top/blog/what-is-comprehensible-input.html). As long as you keep moving forward, you will learn it.
 
 <div class="warning">
 
