@@ -41,7 +41,8 @@ In at least this language, you almost always know when a sentence is right or wh
 And although you can almost never explain why,
 if you were to just read a well-written grammar book,
 you would very quickly understand why.
-That's the thing about grammar: it's only useful **[after-the-fact](https://ajatt.top/blog/learning-grammar.html#the-role-of-grammar-study)**!
+That's the thing about grammar: it's only useful
+**[after-the-fact](https://ajatt.top/blog/learning-grammar.html#the-role-of-grammar-study)**!
 
 Grammar is like conspiracy theories:
 good at explaining past events, but lousy at predicting the future.
@@ -94,6 +95,13 @@ It will develop in you that child-like instinct to decide
 And then, after that, when you want to sharpen the saw,
 you can read all about [Japanese grammar *in Japanese*](https://ajatt.top/blog/resources.html#grammar-in-japanese),
 written by a Japanese person who knows what the heck she's talking about.
+
+Learning grammar in order to use a language
+is like learning organic chemistry in order to make a sandwich.
+Just because you could does not mean you should.
+Learn phrases instead.
+Read lots of example sentences.
+Grammar guides should be written and read not to explain grammar, but to give you examples.
 
 So that's the deal with grammar.
 We recommend using grammar only as a [tool to enhance comprehension](https://ajatt.top/blog/learning-grammar.html#the-role-of-grammar-study).
