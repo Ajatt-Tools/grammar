@@ -1,6 +1,6 @@
 # The て form as auxiliary and giving verbs
 
-On top of just connecting two statements into a single sentence, the て form can also act as an auxiliary. When \<verb1\>て\<verb2\> is used this way, the second verb modifies the core meaning of the first. Usually the second verb has an abstract and often purely grammatical meaning. 
+On top of just connecting two statements into a single sentence, the て form can also act as an auxiliary. When \<verb1\>て\<verb2\> is used this way, the second verb modifies the core meaning of the first. Usually the second verb has an abstract and often purely grammatical meaning.
 
 <pre>
 殺し<b>てあげる</b>
@@ -41,9 +41,24 @@ It is important to keep in mind the difference between the "outside" group and t
 My father taught (me)
 </pre>
 
-The parts in parenthesis are often dropped or removed because just by using てくれる and てもらう, Japanese can imply a "direction" of the verb which makes it obvious whether the action is towards you or not. In English we say "He taught **me**" but in Japanese we say "彼が教えてくれた". The "me" part is implied in てくれる. 
+The parts in parenthesis are often dropped or removed because just by using てくれる and てもらう, Japanese can imply a "direction" of the verb which makes it obvious whether the action is towards you or not. In English we say "He taught **me**" but in Japanese we say "彼が教えてくれた". The "me" part is implied in てくれる.
 
-We will later see other usages of て auxiliary to add a sense of directionality to phrases like ていく and てくる. 
+You may also hear てやる.
+やる is another "do/give" verb,
+but in this pattern it often adds a rough, arrogant, or self-important nuance.
+The action may be done for someone,
+or in some contexts done in a way that sounds like you are acting in their place,
+on their behalf,
+or even at their expense.
+
+<pre>
+ケーキを食べ<b>てやった</b>
+I ate the cake (at someone's expense).
+</pre>
+
+In many cases, てやる just sounds blunt, boastful, or dismissive.
+
+We will later see other usages of て auxiliary to add a sense of directionality to phrases like ていく and てくる.
 
 For verbs and adjectives in ない form, there is another version of the て form that is often used with an "auxiliary" nuance. In this form, rather than なくて, it becomes ないで instead.
 
@@ -52,4 +67,4 @@ For verbs and adjectives in ない form, there is another version of the て for
 To wait while not eating
 </pre>
 
-Here, 食べないで is the て auxiliary of 食べない and can be used to describe the following verb (待つ). It acts somewhat adverbially to add additional meaning and context to the last verb in the chain. We will see more examples of ないで in later lessons, just be aware it exists for now.   
+Here, 食べないで is the て auxiliary of 食べない and can be used to describe the following verb (待つ). It acts somewhat adverbially to add additional meaning and context to the last verb in the chain. We will see more examples of ないで in later lessons, just be aware it exists for now.
