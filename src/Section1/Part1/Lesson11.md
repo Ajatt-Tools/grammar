@@ -54,6 +54,9 @@ or even at their expense.
 <pre>
 ケーキを食べ<b>てやった</b>
 I ate the cake (at someone's expense).
+
+(いざとなったら、) 俺が<b>助けてやる</b>からな！
+(If something happens, ) I'll definitely <b>help</b> you!
 </pre>
 
 In many cases, てやる just sounds blunt, boastful, or dismissive.
