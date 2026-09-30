@@ -36,6 +36,7 @@
   - [Lesson 21: Getting more with も and と](./Section1/Part2/Lesson21.md)
   - [Lesson 22: Enduring actions and state with ている and てある](./Section1/Part2/Lesson22.md)
   - [Lesson 23: Demonstratives with こそあど words](./Section1/Part2/Lesson23.md)
+  - [Intermission: Notes on demonstratives](./Appendix/demonstrating-notes.md)
   - [Lesson 24: Passive form and transitive pairs](./Section1/Part2/Lesson24.md)
   - [Lesson 25: Potential form and できる](./Section1/Part2/Lesson25.md)
   - [Lesson 26: Expressing volition and desire with たい and ほしい](./Section1/Part2/Lesson26.md)
