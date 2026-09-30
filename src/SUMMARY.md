@@ -17,6 +17,7 @@
   - [Lesson 4: Verbs](./Section1/Part1/Lesson4.md)
   - [Lesson 5: Possession and attributes with の](./Section1/Part1/Lesson5.md)
   - [Lesson 6: Particles に, へ, and から](./Section1/Part1/Lesson6.md)
+  - [Intermission: Consonant irregularity](./Appendix/consonants.md)
   - [Lesson 7: Negated verbs](./Section1/Part1/Lesson7.md)
   - [Lesson 8: い adjectives](./Section1/Part1/Lesson8.md)
   - [Lesson 9: Past verbs](./Section1/Part1/Lesson9.md)
