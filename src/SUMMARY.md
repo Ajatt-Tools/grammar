@@ -94,3 +94,4 @@
 # Appendix
 
 - [Additional lessons](./Appendix/additional-lessons.md)
+- [Further reading](./Appendix/further-reading.md)
