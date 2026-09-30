@@ -17,6 +17,9 @@ But I can give a rundown of the common yes/no words anyway.
 <pre>
 ううん、違うよ。
 No, that's not it.
+
+うん、そうだよ。
+Yeah, that's right.
 </pre>
 
 <pre>
@@ -27,8 +30,27 @@ No, that's not it.
 いや - No (rough)
 </pre>
 
+<pre>
+あ、はい、分かりました。
+Oh, yes, I understand.
+
+いいえ、違います。
+No, that's not right.
+
+ええ、そうですね。
+Yes, that's right.
+
+いや、違う、そうじゃない。
+No, that's not it.
+</pre>
+
 Warning: ええ can be an unrelated filler word that feels like the speaker has something to elaborate
 on or deny, or that they're confused.
+
+<pre>
+ええっ、どういうことなの？
+Huh? What do you mean?
+</pre>
 
 In addition to "no", 嫌(いや) is also a な-adjective used for unlikeable things.
 
@@ -39,6 +61,11 @@ In addition to "no", 嫌(いや) is also a な-adjective used for unlikeable thi
 
 いや can also be said as や.
 This usually isn't done if it'd be confusing.
+
+<pre>
+そんなの、やだよ。
+No way, I don't want that.
+</pre>
 
 ## Not wanting with まい and permission with いい, ますか/ませんか
 
@@ -75,11 +102,21 @@ For する and くる, you sometimes see すまい and こまい.
 食べまいとする Trying not to eat
 </pre>
 
+<pre>
+手の内を見せまいとしたのだろう。
+They were probably trying not to show their hand.
+</pre>
+
 Negative volition can also invite ideas, just like positive volition (compare だろう, でしょう, etc).
 This is one of the more common uses of まい in speech.
 
 <pre>
 そんなわけでもあるまい Such a thing is out of the question.
+</pre>
+
+<pre>
+そんなことはあるまい。
+That can't be the case.
 </pre>
 
 いい just means "good" or "fine" and isn't a grammatical term in itself,
@@ -108,6 +145,14 @@ like how it's an entity in なくては.
 食べなくていいよ (fine if you don't eat)
 </pre>
 
+<pre>
+そんなに気にしないでいいよ。
+You don't need to worry so much.
+
+無理して食べなくてもいいのに。
+You don't have to force yourself to eat, you know.
+</pre>
+
 Sometimes, ますか and ませんか are a way of inviting permission politely,
 rather than asking a negative question.
 Think of this the same way as how ていい is used for permission
@@ -117,6 +162,14 @@ even though it doesn't say "permission" anywhere.
 食べますか Won't you eat?
 舐めてませんか？　ねえ？ Won't you try it? How about it?
 お仕事お休みできませんか……？ Is it impossible to take the day off...?
+</pre>
+
+<pre>
+何か飲みますか？
+Would you like something to drink?
+
+良かったら、一緒に行きませんか？
+If you'd like, shall we go together?
 </pre>
 
 ## "Oh well" and "I can't help it" with "It can't be helped"
@@ -138,8 +191,16 @@ The literal meaning of ～よう・かたがない is "there's no way to X".
 </pre>
 
 <pre>
+そう聞かれても、答えようがない。
+Even if you ask me that, there's no way I can answer.
+</pre>
+
+<pre>
 まぁ、やってしまったものはしょうがない。
 Well, what's done is done.
+
+言ってしまったものは仕方がない。
+What's said is said.
 </pre>
 
 But as a set phrase, しようがない and similar expressions are their own thing,
@@ -219,6 +280,24 @@ Unfortunately, I don't understand the meaning at all.
 </pre>
 
 In the first contrast, まだ is not the problem. 何も with a neutral affirmative verb is.
+
+With question words, か can form an indefinite instead of making a question.
+Compare it with も in a negative statement:
+
+<pre>
+何かが起きた。
+Something happened.
+
+何も起きなかった。
+Nothing happened.
+</pre>
+
+The positive 誰もが is a different pattern from 誰も〜ない:
+
+<pre>
+その場の誰もがそう思った。
+Everyone there thought so.
+</pre>
 
 The following English examples illustrate polarity in English, not Japanese translations.
 
@@ -327,6 +406,11 @@ Comes, otherwise communicates
 A dog <b>or</b> a cat
 </pre>
 
+<pre>
+通行許可書、または身分証明書はありますか？
+Do you have a travel permit or an ID?
+</pre>
+
 もしくは (若しくは) is another logical conjunction meaning "or".
 Unlike または, it isn't specifically mutually exclusive.
 It just presents two alternatives.
@@ -336,6 +420,11 @@ It just presents two alternatives.
 Die, or pass away
 </pre>
 
+<pre>
+ゲームプログラマー、もしくはゲームデザイナーだ。
+They're a game programmer or a game designer.
+</pre>
+
 あるいは (或いは) is another alternative-presenting conjunction, but this time it has another common use.
 In addition to acting like "or", it can also act like an interjection that just emphasize the
 possibility of something.
@@ -343,6 +432,9 @@ possibility of something.
 <pre>
 緊張しているのか、あるいは喜んでいるのか。
 Are they nervous, or are they happy?
+
+あるいは、誰かがわざと嘘を伝えているのです。
+Or perhaps someone is deliberately spreading a lie.
 </pre>
 
 及び is a logical "and".
@@ -352,9 +444,23 @@ In this way, it's similar to と (but stricter) when と is used as a logical "a
 及び is formal.
 Unlike と, 及び can operate on more kinds of objects.
 
+<pre>
+活動地域は日本及び東アジアが中心。
+The main areas of activity are Japan and East Asia.
+</pre>
+
 並びに works much like 及び.
 並びに can only be used with one set of two items.
 However, 並びに and 及び can be used together to control the order in which items are combined together.
+
+<pre>
+国王陛下、並びにこの場にお集まりの皆様に申し上げます。
+I address His Majesty the King and everyone gathered here.
+
+刑は鞭打ち三回及び斬首並びに獄門晒し首が加わる。
+The punishment includes three lashes and beheading,
+as well as public display of the severed head.
+</pre>
 
 ものの (物の) has the same general meaning as the conjunction が, but has different restrictions on when
 it's used.
