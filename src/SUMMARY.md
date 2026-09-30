@@ -81,6 +81,7 @@
   - [Lesson 61: Approximately with ころ and くらい, and limits with まで, ほど, すぎる](./Section2/Part4/Lesson61.md)
   - [Lesson 62: Time references with 後, 前, 先, and 時](./Section2/Part4/Lesson62.md)
   - [Lesson 63: A bit more: Some extra particles and auxiliaries](./Section2/Part4/Lesson63.md)
+  - [Lesson 64: More on giving and receiving](./Section2/Part4/Lesson64.md)
 - [Closing Words](ClosingWords.md)
 
 ---
