@@ -86,5 +86,11 @@
 
 ---
 
+# FAQ
+
 - [Frequently Asked Questions](FAQ.md)
 - [Credits](./Credits.md)
+
+# Appendix
+
+- [Additional lessons](./Appendix/additional-lessons.md)
