@@ -1,3 +1,5 @@
 book
 *.png
 *.jpg
+/*.md
+!/README.md
