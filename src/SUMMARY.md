@@ -18,6 +18,7 @@
   - [Lesson 3: Particles and grammatical case](./Section1/Part1/Lesson3.md)
   - [Intermission: Devoicing](./Appendix/devoicing.md)
   - [Lesson 4: Verbs](./Section1/Part1/Lesson4.md)
+  - [Intermission: "Synthetic" language](./Appendix/synthetic.md)
   - [Lesson 5: Possession and attributes with の](./Section1/Part1/Lesson5.md)
   - [Lesson 6: Particles に, へ, and から](./Section1/Part1/Lesson6.md)
   - [Intermission: Consonant irregularity](./Appendix/consonants.md)
