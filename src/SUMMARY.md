@@ -25,6 +25,7 @@
   - [Intermission: Consonant irregularity](./Appendix/consonants.md)
   - [Lesson 7: Negated verbs](./Section1/Part1/Lesson7.md)
   - [Lesson 8: い adjectives](./Section1/Part1/Lesson8.md)
+  - [Intermission: What's subarashiki about poetry anyway?](./Appendix/subarashiki.md)
   - [Lesson 9: Past verbs](./Section1/Part1/Lesson9.md)
   - [Lesson 10: The て form](./Section1/Part1/Lesson10.md)
   - [Lesson 11: The て form as auxiliary and giving verbs](./Section1/Part1/Lesson11.md)
