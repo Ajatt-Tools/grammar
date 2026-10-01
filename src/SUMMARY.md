@@ -29,6 +29,7 @@
   - [Lesson 9: Past verbs](./Section1/Part1/Lesson9.md)
   - [Intermission: About jargon](./Appendix/jargon.md)
   - [Lesson 10: The て form](./Section1/Part1/Lesson10.md)
+  - [Intermission: What even is an infinitive?](./Appendix/infinitive.md)
   - [Lesson 11: The て form as auxiliary and giving verbs](./Section1/Part1/Lesson11.md)
   - [Lesson 12: Soft requests with てください and the imperative form](./Section1/Part1/Lesson12.md)
   - [Lesson 13: The で particle, では and じゃ](./Section1/Part1/Lesson13.md)
