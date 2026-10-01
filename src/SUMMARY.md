@@ -33,6 +33,7 @@
   - [Lesson 11: The て form as auxiliary and giving verbs](./Section1/Part1/Lesson11.md)
   - [Lesson 12: Soft requests with てください and the imperative form](./Section1/Part1/Lesson12.md)
   - [Lesson 13: The で particle, では and じゃ](./Section1/Part1/Lesson13.md)
+  - [Intermission: Japanese japanese grammar is bad, too, actually](./Appendix/grammar.md)
   - [Lesson 14: Getting detailed with relative clauses](./Section1/Part1/Lesson14.md)
   - [Lesson 15: な adjectives](./Section1/Part1/Lesson15.md)
   - [Lesson 16: Irregular and する verbs](./Section1/Part1/Lesson16.md)
