@@ -35,6 +35,7 @@
   - [Lesson 13: The で particle, では and じゃ](./Section1/Part1/Lesson13.md)
   - [Intermission: Japanese japanese grammar is bad, too, actually](./Appendix/grammar.md)
   - [Lesson 14: Getting detailed with relative clauses](./Section1/Part1/Lesson14.md)
+  - [Intermission: The dreaded parse and auxiliary verbs](./Appendix/parsing.md)
   - [Lesson 15: な adjectives](./Section1/Part1/Lesson15.md)
   - [Lesson 16: Irregular and する verbs](./Section1/Part1/Lesson16.md)
   - [Lesson 17: Basic politeness and ます form](./Section1/Part1/Lesson17.md)
