@@ -16,6 +16,7 @@
   - [Lesson 2: Nouns, pronouns](./Section1/Part1/Lesson2.md)
   - [Intermission: Long vowels and gemination](./Appendix/longvowels.md)
   - [Lesson 3: Particles and grammatical case](./Section1/Part1/Lesson3.md)
+  - [Intermission: Devoicing](./Appendix/devoicing.md)
   - [Lesson 4: Verbs](./Section1/Part1/Lesson4.md)
   - [Lesson 5: Possession and attributes with の](./Section1/Part1/Lesson5.md)
   - [Lesson 6: Particles に, へ, and から](./Section1/Part1/Lesson6.md)
