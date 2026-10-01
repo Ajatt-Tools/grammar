@@ -13,6 +13,7 @@
   - [Lesson 0: The anatomy of Japanese sentences](./Section1/Part1/Lesson0.md)
   - [Lesson 1: State of being with だ and です](./Section1/Part1/Lesson1.md)
   - [Lesson 2: Nouns, pronouns](./Section1/Part1/Lesson2.md)
+  - [Intermission: Long vowels and gemination](./Appendix/longvowels.md)
   - [Lesson 3: Particles and grammatical case](./Section1/Part1/Lesson3.md)
   - [Lesson 4: Verbs](./Section1/Part1/Lesson4.md)
   - [Lesson 5: Possession and attributes with の](./Section1/Part1/Lesson5.md)
