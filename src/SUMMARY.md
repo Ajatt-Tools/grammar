@@ -27,6 +27,7 @@
   - [Lesson 8: い adjectives](./Section1/Part1/Lesson8.md)
   - [Intermission: What's subarashiki about poetry anyway?](./Appendix/subarashiki.md)
   - [Lesson 9: Past verbs](./Section1/Part1/Lesson9.md)
+  - [Intermission: About jargon](./Appendix/jargon.md)
   - [Lesson 10: The て form](./Section1/Part1/Lesson10.md)
   - [Lesson 11: The て form as auxiliary and giving verbs](./Section1/Part1/Lesson11.md)
   - [Lesson 12: Soft requests with てください and the imperative form](./Section1/Part1/Lesson12.md)
