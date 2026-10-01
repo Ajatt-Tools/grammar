@@ -12,6 +12,7 @@
 - [Part 1: Getting Started](./Section1/Part1.md)
   - [Lesson 0: The anatomy of Japanese sentences](./Section1/Part1/Lesson0.md)
   - [Lesson 1: State of being with だ and です](./Section1/Part1/Lesson1.md)
+  - [Intermission: Vowels](./Appendix/vowels.md)
   - [Lesson 2: Nouns, pronouns](./Section1/Part1/Lesson2.md)
   - [Intermission: Long vowels and gemination](./Appendix/longvowels.md)
   - [Lesson 3: Particles and grammatical case](./Section1/Part1/Lesson3.md)
