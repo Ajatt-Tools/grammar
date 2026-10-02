@@ -63,6 +63,7 @@
   - [Lesson 27: Saying "if" and "when" with the four conditionals](./Section1/Part2/Lesson27.md)
   - [Intermission: The Gauntlet](./Appendix/endofthegauntlet.md)
   - [Lesson 28: Verbs Review](./Section1/Part2/Lesson28.md)
+  - [Hidden Intermission](./Appendix/hidden-intermission.md)
 
 # Section 2
 
