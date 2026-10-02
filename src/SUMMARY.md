@@ -61,6 +61,7 @@
   - [Lesson 26: Expressing volition and desire with たい and ほしい](./Section1/Part2/Lesson26.md)
   - [Intermission: Notes on wanting](./Appendix/wantingnotes.md)
   - [Lesson 27: Saying "if" and "when" with the four conditionals](./Section1/Part2/Lesson27.md)
+  - [Intermission: The Gauntlet](./Appendix/endofthegauntlet.md)
   - [Lesson 28: Verbs Review](./Section1/Part2/Lesson28.md)
 
 # Section 2
