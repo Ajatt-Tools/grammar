@@ -55,6 +55,7 @@
   - [Lesson 23: Demonstratives with こそあど words](./Section1/Part2/Lesson23.md)
   - [Intermission: Notes on demonstratives](./Appendix/demonstrating-notes.md)
   - [Lesson 24: Passive form and transitive pairs](./Section1/Part2/Lesson24.md)
+  - [Intermission: Notes on the passive](./Appendix/passivenotes.md)
   - [Lesson 25: Potential form and できる](./Section1/Part2/Lesson25.md)
   - [Lesson 26: Expressing volition and desire with たい and ほしい](./Section1/Part2/Lesson26.md)
   - [Lesson 27: Saying "if" and "when" with the four conditionals](./Section1/Part2/Lesson27.md)
