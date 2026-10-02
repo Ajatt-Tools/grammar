@@ -46,6 +46,7 @@
   - [Lesson 19: Questions with か](./Section1/Part2/Lesson19.md)
   - [Lesson 20: Questions with の and explanatory のだ](./Section1/Part2/Lesson20.md)
   - [Intermission: Two notes on の and のだ](./Appendix/noninotes.md)
+  - [Asking why: なぜ なんで どうして](./Appendix/why.md)
   - [Lesson 21: Getting more with も and と](./Section1/Part2/Lesson21.md)
   - [Lesson 22: Enduring actions and state with ている and てある](./Section1/Part2/Lesson22.md)
   - [Lesson 23: Demonstratives with こそあど words](./Section1/Part2/Lesson23.md)
