@@ -59,6 +59,7 @@
   - [Lesson 25: Potential form and できる](./Section1/Part2/Lesson25.md)
   - [Intermission: Notes on the potential](./Appendix/potentialnotes.md)
   - [Lesson 26: Expressing volition and desire with たい and ほしい](./Section1/Part2/Lesson26.md)
+  - [Intermission: Notes on wanting](./Appendix/wantingnotes.md)
   - [Lesson 27: Saying "if" and "when" with the four conditionals](./Section1/Part2/Lesson27.md)
   - [Lesson 28: Verbs Review](./Section1/Part2/Lesson28.md)
 
