@@ -49,6 +49,7 @@
   - [Asking why: なぜ なんで どうして](./Appendix/why.md)
   - [Intermission: Notes on なぜ なんで どうして](./Appendix/whynotes.md)
   - [Lesson 21: Getting more with も and と](./Section1/Part2/Lesson21.md)
+  - [Intermission: Single piece of trivia on と](./Appendix/totrivia.md)
   - [Lesson 22: Enduring actions and state with ている and てある](./Section1/Part2/Lesson22.md)
   - [Lesson 23: Demonstratives with こそあど words](./Section1/Part2/Lesson23.md)
   - [Intermission: Notes on demonstratives](./Appendix/demonstrating-notes.md)
