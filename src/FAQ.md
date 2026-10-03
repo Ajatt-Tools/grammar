@@ -21,26 +21,25 @@ I originally tried to keep track of all the changes, both minor and major, with 
 
 - Lessons have been split into individual pages under an mdbook format rather than a single standalone web page. This makes it easier to browse and share individual lessons with other learners.
 - Dropped words like "one form" and "five forms" in favor of ichidan and godan terminology for verbs
-- A few lessons and grammar points have been split into separate lessons. Sakubi has 54 lessons. AJATT Grammar Guide has 63.
+- A few lessons and grammar points have been split into separate lessons. Sakubi has 54 lessons. AJATT Grammar Guide has 64.
 - Added a new lesson on negative state of being
 - Added a lesson 0 on the anatomy of Japanese sentences
 - Several lessons have been reshuffled and re-ordered to have more reasonable priority sorting of importance
 - Added a section on する verbs
 - Added a lesson on ようとする and てみる (rather than an optional section)
 - Added a specific lesson for たり〜たり
+- Kept an early introduction to giving verbs and moved the detailed giving/receiving discussion into its own final lesson.
 - Grouped together some "Parts". Sakubi split Section 1 and 2 into several parts. AJATT Grammar Guide has 2 sections with 2 parts each.
-- Removed the notion of "intermissions" and "hidden/optional lessons". An appendix index is being planned instead (This is not finished yet)
-- Almost every single example sentence has been re-sourced (from native media) and re-sorted by difficulty/appropriateness. Aside a few exceptions, example sentences will not show grammar points that haven't been covered yet.
+- Moved the intermissions to individual Markdown pages in the Appendix directory while keeping them between their corresponding lessons in the table of contents, including the hidden intermission.
+- Incorporated the optional lessons on auxiliary verbs and extra particles into the main lessons. The lessons on why-questions, yes/no responses, negative volition, and しょうがない are available as supplementary reading.
+- Almost every example sentence in the main lessons has been re-sourced (from native media) and re-sorted by difficulty/appropriateness. The supplementary notes may keep short illustrative examples from the earlier guide.
 
 #### Minor Changes
 
-- Changed some tone and voice. A lot of first person writing has been changed to a more appealing format.
-- Changed some links and mentions of third-party projects that don't support the AJATT philosophy.
-- Reworded a lot of grammar explanations to be less jargony
-- Changed some outright cringe titles.
-- Changed some links to some videos and resources for better (newer) alternatives
-- Removed a lot of questionable statements that were incorrect or very opinionated / hard to verify the correctness of
-- Fixed a lot of typos and straight up mistakes
+- Made explanations, titles, and tone clearer; corrected typos and misleading statements.
+- Updated links and resource recommendations to better fit the AJATT approach.
+- Restored useful source caveats and examples while adapting the old material to the new guide.
+- Added native-media Japanese examples with English translations throughout the guide, keeping useful English comparisons.
 
 ### Who owns AJATT Grammar Guide?
 
