@@ -11,7 +11,9 @@ The **Common** Grammar Guide.
 *Dedicated to all those who learn, want to learn, and **will** learn.*
 
 <div class="warning">
-This guide is a complete re-write and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. The full rewrite is <b>still not finished</b>, but the main content and guide are done.
+Originally,
+this guide is a complete rewrite and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>.
+Its supplementary topics and optional notes are available in the appendix.
 </div>
 
 AJATT Grammar Guide is an **open** and **community-maintained** project. We accept all kinds of helpful contributions.
